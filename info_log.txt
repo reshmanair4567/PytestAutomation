@@ -1,0 +1,19 @@
+2019-07-10 03:04:44,109 - __main__ - INFO - Information
+2019-07-10 03:04:44,109 - __main__ - WARNING - warning
+2019-07-10 03:05:27,699 - __main__ - INFO - Information
+2019-07-10 03:05:27,699 - __main__ - WARNING - warning
+2019-07-10 03:06:05,342 - __main__ - INFO - Information
+2019-07-10 03:06:05,343 - __main__ - WARNING - warning
+2019-07-10 03:06:18,125 - __main__ - INFO - This is log info
+2019-07-10 03:07:28,073 - __main__ - INFO - Information
+2019-07-10 03:07:28,074 - __main__ - WARNING - warning
+2019-07-10 03:07:45,378 - __main__ - INFO - This is log info
+2019-07-10 03:08:45,863 - __main__ - INFO - Information
+2019-07-10 03:08:45,864 - __main__ - WARNING - warning
+2019-07-10 03:09:00,600 - __main__ - INFO - This is log info
+2019-07-11 01:57:28,988 - test_TC005_Generate Logs - INFO - Information
+2019-07-11 01:57:29,011 - test_TC005_Generate Logs - WARNING - warning
+2019-07-11 01:57:40,202 - test_TC005_Generate Logs - INFO - This is log info
+2019-07-11 02:10:30,545 - test_TC005_Generate Logs - INFO - Information
+2019-07-11 02:10:30,545 - test_TC005_Generate Logs - WARNING - warning
+2019-07-11 02:10:42,473 - test_TC005_Generate Logs - INFO - This is log info

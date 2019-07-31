@@ -1,0 +1,3 @@
+[32mINFO    [0m test_TC005_Generate Logs:test_TC005_Generate Logs.py:29 Information
+[33mWARNING [0m test_TC005_Generate Logs:test_TC005_Generate Logs.py:30 warning
+[32mINFO    [0m test_TC005_Generate Logs:test_TC005_Generate Logs.py:42 This is log info
